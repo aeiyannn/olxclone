@@ -1,0 +1,7 @@
+@media only screen and (max-width: 600px) {
+    .S_ed{
+        height: 200px !important;
+        object-fit: cover;
+        width: 100%;
+    }
+}
